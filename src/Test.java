@@ -9,7 +9,7 @@ public class Test {
 		// br1 - 1
 		// br1 - 2
 		//
-// m1
+// master1
 // m2
 		// br1
 		// br2
