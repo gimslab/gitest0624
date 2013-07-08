@@ -5,7 +5,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// master - 1
+		// M1
 		// br1 - 1
 		// br1 - 2
 		//
