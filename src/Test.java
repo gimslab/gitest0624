@@ -7,7 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		// M1
 		// myteam -1
-		// br1 - 2
+		// myteam -2
 		//
 // Master1
 // Master2
