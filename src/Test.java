@@ -9,8 +9,8 @@ public class Test {
 		// br1 - 1
 		// br1 - 2
 		//
-// master1
-// master2
+// Master1
+// Master2
 // master3
 		// br8-1
 		// br8-2
